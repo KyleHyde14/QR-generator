@@ -1,1 +1,1 @@
-This is a QR generator using Flask. using python to generate and delete qrs for the user and some javascript to control the html forms.
+This is a QR code generator made with flask, it provides the ability to create 3 types of QRs including a vcard using the vobject library. It also uses a bit of Javascript to manage the HTML forms to get the precise data. Also includes a script that thanks to threads allows to delete old QR codes to improve memory.
